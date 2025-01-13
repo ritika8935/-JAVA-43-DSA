@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ce4a22d-54d7-4f66-9c4b-60cc1a3bc758" name="Changes" comment="Deep concept">
+      <change afterPath="$PROJECT_DIR$/src/array/array_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/linearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/maxEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/searchingEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/secondMaxEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/sumOfEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deepDiveJava/ExceptionalHandling/checkedUnchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deepDiveJava/ExceptionalHandling/multipleTryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deepDiveJava/ExceptionalHandling/nestedTryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deepDiveJava/ExceptionalHandling/throwThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deepDiveJava/ExceptionalHandling/throwThrows2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deepDiveJava/ExceptionalHandling/throwThrowsFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deepDiveJava/ExceptionalHandling/tryCatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkList/introLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkList/introLL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +39,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/oops/practice/solution.java" root0="SKIP_INSPECTION" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -40,24 +57,33 @@
     "Application.Class_Obj.executor": "Run",
     "Application.Interface.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.array_1.executor": "Run",
     "Application.awesome.executor": "Run",
     "Application.backtraking_on_Arrays.executor": "Run",
+    "Application.checkedUnchecked.executor": "Run",
     "Application.class_obj_constructor.executor": "Run",
     "Application.constructor.executor": "Run",
     "Application.getter_setter.executor": "Run",
     "Application.hello.executor": "Run",
     "Application.importstatic.executor": "Run",
+    "Application.introLL.executor": "Run",
     "Application.introduction.executor": "Run",
+    "Application.linearSearch.executor": "Run",
     "Application.main.executor": "Run",
+    "Application.maxEle.executor": "Run",
     "Application.maxWaterStored.executor": "Run",
     "Application.methodOverriding.executor": "Run",
     "Application.multi_dimensional.executor": "Run",
+    "Application.multipleTryCatch.executor": "Run",
+    "Application.nestedTryCatch.executor": "Run",
     "Application.objectDemo.executor": "Run",
     "Application.oops1_concept.executor": "Run",
     "Application.practice.executor": "Run",
     "Application.practice2.executor": "Run",
     "Application.printSum2.executor": "Run",
     "Application.print_sum.executor": "Run",
+    "Application.searchingEle.executor": "Run",
+    "Application.secondMaxEle.executor": "Run",
     "Application.singleTon2.executor": "Run",
     "Application.size.executor": "Run",
     "Application.sorting.executor": "Run",
@@ -65,7 +91,11 @@
     "Application.static_Class.executor": "Run",
     "Application.static_keyword.executor": "Run",
     "Application.subset.executor": "Debug",
+    "Application.sumOfEle.executor": "Run",
     "Application.superKeyword.executor": "Run",
+    "Application.throwThrows2.executor": "Run",
+    "Application.throwThrowsFinally.executor": "Run",
+    "Application.tryCatch.executor": "Run",
     "Application.wrapper_class.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
@@ -107,8 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.subset" />
         <item itemvalue="Application.singleTon2" />
+        <item itemvalue="Application.subset" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733546179811</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Deep concept">
+      <option name="closed" value="true" />
+      <created>1733548332079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733548332079</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
